@@ -9,7 +9,7 @@
   
   inputs.src-luna-master.flake = false;
   inputs.src-luna-master.owner = "smallfx";
-  inputs.src-luna-master.ref   = "refs/heads/master";
+  inputs.src-luna-master.ref   = "master";
   inputs.src-luna-master.repo  = "luna.nim";
   inputs.src-luna-master.type  = "github";
   
