@@ -11,7 +11,6 @@
   inputs.src-luna-master.ref   = "refs/heads/master";
   inputs.src-luna-master.owner = "smallfx";
   inputs.src-luna-master.repo  = "luna.nim";
-  inputs.src-luna-master.dir   = "";
   inputs.src-luna-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
